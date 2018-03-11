@@ -1,2 +1,2 @@
 # Mtest1
-compte pour exposer mes projets de développement
+Dans ce compte j'y ai éxposé mon cv et mon projet création de site web.
